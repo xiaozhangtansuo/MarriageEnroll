@@ -1,12 +1,13 @@
 ## 功能介绍 
     
-本小程序包括婚姻登记中心最新动态，婚姻登记指南，婚姻登记政策法规，预约婚姻登记，后台婚姻登记名单管理，导出，核销等功能。近年来，各地婚姻登记机构出于便民的考虑，开展了婚姻登记预约，婚姻当事人可第一时间了解掌握结婚登记所需手续，更加方便快捷地办理结婚登记，最大限度地节约婚姻当事人的时间，而且对于需要在特定日子（比如中秋，七夕，国庆等）进行结婚登记的男女就不用担心因为人多而无法办理结婚登记了。
+婚姻登记预约小程序：传统的婚姻登记形式，都是群众直接到区民政局婚姻登记处办理婚姻登记，尤其是近年来，许多办事群众喜欢在情人节或者特殊谐音的日子比如2月14日、5月20日、5月2日、9月9日等，办理婚姻登记，但是由于没有全市统一的预约渠道，一方面人们不能及时了解当天的办事人数，无法科学合理安排办理时间，往往造成民政部门办事大厅拥挤，队伍排成长龙，人员的聚焦也不利于疫情防控；另一方面部分办事群众缺乏婚姻登记知识的了解渠道，携带资料不完整，导致因为办理的条件不符，影响了登记业务的办理。为此，海口市民政局婚姻登记处决定开发婚姻登记预约小程序，通过线上预约来解决目前存在的问题。
 
 - 婚姻登记预约管理：开始/截止时间/人数均可灵活设置，可以自定义客户预约填写的数据项
 - 婚姻登记预约凭证：支持线下到场后校验签到/核销/二维码自助签到等多种方式
 - 详尽的预约数据：支持预约名单数据导出Excel，打印
 
-![输入图片说明](demo/%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
+ ![image](https://user-images.githubusercontent.com/114723621/193859241-7e427c37-8a2c-4e0b-9c59-44042e4ba7c1.png)
+
  
 
 ## 技术运用
@@ -18,18 +19,14 @@
 
 
 
-## 作者
-- 如有疑问，欢迎骚扰联系我鸭：开发交流，技术分享，问题答疑，功能建议收集，版本更新通知，安装部署协助，小程序开发定制等。
-- 俺的微信:
-
- ![输入图片说明](demo/author-base.png)
+ 
  
 
 
 
 ## 演示
  
- ![输入图片说明](demo/%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
+![image](https://user-images.githubusercontent.com/114723621/193859260-cd62fbf2-01ab-47dc-9d45-8b0b807d4ea5.png)
  
 
 ## 安装
@@ -39,28 +36,26 @@
 
 
 ## 截图
+![image](https://user-images.githubusercontent.com/114723621/193859299-36046ea7-4996-4914-bc37-2e67b600fba4.png)
+![image](https://user-images.githubusercontent.com/114723621/193859311-a70e72d9-4129-4a63-bac0-ba090be1caf5.png)
+![image](https://user-images.githubusercontent.com/114723621/193859321-7feb6ee7-b440-4ceb-b572-99693ba32dae.png)
+![image](https://user-images.githubusercontent.com/114723621/193859336-cdb678ab-fdb8-4e60-95a0-29f6217e2104.png)
+![image](https://user-images.githubusercontent.com/114723621/193859348-a1663b36-8bb0-4019-8bc1-9c03615da381.png)
+![image](https://user-images.githubusercontent.com/114723621/193859364-89201962-6582-4663-a820-bdc07a7299ff.png)
+![image](https://user-images.githubusercontent.com/114723621/193859382-6046a075-733d-494c-b0e1-29079943bc0f.png)
+![image](https://user-images.githubusercontent.com/114723621/193859392-0f6366f0-7d49-4ac5-8375-41868d8b69ee.png)
+![image](https://user-images.githubusercontent.com/114723621/193859402-77f578e0-ecea-49a4-8368-50798c400eeb.png)
 
-![输入图片说明](demo/1%E9%A6%96%E9%A1%B5.png)
-![输入图片说明](demo/2%E6%9C%80%E6%96%B0%E5%8A%A8%E6%80%81.png)
-![输入图片说明](demo/3%E7%99%BB%E8%AE%B0%E6%8C%87%E5%8D%97.png)
-
-![输入图片说明](demo/4%E9%A2%84%E7%BA%A6%E6%97%A5%E5%8E%86.png)
-![输入图片说明](demo/5%E6%88%91%E7%9A%84.png)
- ![输入图片说明](demo/6%E9%A2%84%E7%BA%A6%E7%99%BB%E8%AE%B0.png)
-![输入图片说明](demo/7%E9%A2%84%E7%BA%A6%E8%AF%A6%E6%83%85.png)
-
-![输入图片说明](demo/8%E9%A2%84%E7%BA%A6.png)
-![输入图片说明](demo/9%E9%A2%84%E7%BA%A6%E6%88%90%E5%8A%9F.png)
+ 
 
 ## 后台管理系统截图
-![输入图片说明](demo/10%E5%90%8E%E5%8F%B0-%E9%A6%96%E9%A1%B5.png)
-
-![输入图片说明](demo/11%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E7%AE%A1%E7%90%86.png)
-![输入图片说明](demo/12%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E6%B7%BB%E5%8A%A0.png)
- ![输入图片说明](demo/13%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E6%97%B6%E6%AE%B5%E8%AE%BE%E7%BD%AE.png)
-![输入图片说明](demo/14%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E8%8F%9C%E5%8D%95.png)
-![输入图片说明](demo/15%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E5%90%8D%E5%8D%95.png)
-![输入图片说明](demo/16%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E5%90%8D%E5%8D%95%E7%AE%A1%E7%90%86.png)
-![输入图片说明](demo/17%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E5%90%8D%E5%8D%95%E5%AF%BC%E5%87%BA.png)
-![输入图片说明](demo/18%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E6%A0%B8%E9%94%80.png)
-![输入图片说明](demo/19%E5%90%8E%E5%8F%B0-%E5%86%85%E5%AE%B9%E7%AE%A1%E7%90%86.png)
+ ![image](https://user-images.githubusercontent.com/114723621/193859417-2e014cbc-790d-412d-903f-fb58bb5e42d7.png)
+![image](https://user-images.githubusercontent.com/114723621/193859429-05d73b62-ef87-4bdc-8bd2-a404bad3722e.png)
+![image](https://user-images.githubusercontent.com/114723621/193859444-50194c3c-4d54-42c6-b470-9d7a3bbd4b2b.png)
+![image](https://user-images.githubusercontent.com/114723621/193859456-8130d3c7-7514-420e-96a5-18632e0a5cda.png)
+![image](https://user-images.githubusercontent.com/114723621/193859470-79d636cb-0d56-48e7-ad01-2f44f6ecd805.png)
+![image](https://user-images.githubusercontent.com/114723621/193859486-756aa0bc-1f90-4977-b15d-177637e15779.png)
+![image](https://user-images.githubusercontent.com/114723621/193859502-1aa6056f-ebcf-4e10-a3b6-912044b17196.png)
+![image](https://user-images.githubusercontent.com/114723621/193859522-ae868bed-fdf9-4165-a505-848aa62b1338.png)
+![image](https://user-images.githubusercontent.com/114723621/193859540-7b829914-e4c2-4fa0-9182-bf7ed7fece63.png)
+![image](https://user-images.githubusercontent.com/114723621/193859561-312a349d-9f67-4c52-8b22-bada93965154.png)
